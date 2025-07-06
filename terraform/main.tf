@@ -24,7 +24,7 @@ module "sandbox_account_aft1" {
 
   custom_fields = {
     custom1 = "a"
-    custom2 = "b"
+    custom2 = "c"
   }
 
   account_customizations_name = "sandbox-aft1"
